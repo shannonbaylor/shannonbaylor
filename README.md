@@ -1,51 +1,39 @@
-# 👋 Hi there! I'm Shannon
+Hi, I'm Shannon 👋
 
-## 🏅 Sports Project Manager | 💻 Aspiring Developer | 🤖 AI Enthusiast
+Sports tech product manager and technical product owner. You bring the what and the why. I build the how.
 
-I'm a project manager with a passion for sports and technology. With over 10 years of experience in operations, primarily in higher education and small business, and 2 years in project management, I'm now focused on leveraging AI to enhance sports operations.
+Tell me what you're trying to build, and somewhere in the middle of you talking, my head is already putting the systems together. I can't really help it. That's the part I'm built for.
 
-### 🚀 Current Projects
+I've spent more than a decade inside youth sports, building recreation, club, and wellness programs from the ground up. Now I turn that operator experience into products: my own, and my clients'. When I come into your build, I've sat in your chair.
 
-- 🤖 **Autonomous AI Agent for Sports Entrepreneurs**: Developing a comprehensive AI solution that covers:
-  - 💰 Financial management
-  - 🏋️ Athlete performance tracking
-  - 🏟️ Facilities and inventory management
-  - 📣 Marketing & lead generation
-  - 📅 Scheduling
-  - 🤝 Client engagement & retention/customer service
-  - 👩‍💼 Virtual assistant capabilities
-  - 🎉 Event management
-  - 📊 Data insights and reporting
+🛠️ What I do
 
-- 🏆 **Youth Sports Directory**: Building a platform to connect young athletes with local sports programs and facilities.
+Product strategy, MVP scoping, data models, integration architecture, and the unglamorous middle part where a vision becomes something that actually runs. I work solo or embedded with founders, end to end: from the first scoping conversation through build, launch, and what comes after.
 
-### 💼 Professional Background
+📌 Case studies
 
-- **Project Management**: 2+ years of experience managing projects across various sectors.
-- **Operations Management**: Over 10 years of experience in higher education and small business operations.
-- **Coding Skills**: Basic proficiency in Python, with experience using automation tools like n8n, Make, and Zapier.
+The pinned repos below are architecture and decision write-ups of real builds. No live code (each one explains why), just the thinking.
 
-### 🌱 I'm currently learning
+🟠 Klubbi · A two-sided youth sports marketplace I'm building solo, end to end. Next.js, Supabase, Algolia, Stripe. The interesting decisions: turning down paid-placement revenue to protect a trust engine, and solving marketplace cold-start supply-side first.
 
-- **AI in Sports Operations**: Exploring how AI can streamline operations and enhance decision-making in sports businesses.
+📅 Sideline Assist · A planning tool that takes the logistics load of a youth sports season off the family calendar. The core product decision is a data model that makes the household the root object instead of the team.
 
-### 👯 I'm looking to collaborate on
+🩺 Sideline Ortho · Client engagement: product strategy and solutions architecture for a sports medicine client portal. Base44, AWS S3, HubSpot, Microsoft 365. A case study in scoping what an AI build platform should own vs. what needs real integration design.
 
-- Open-source sports-related projects
-- Innovative AI applications for small sports businesses
+🧰 Stack I work in
 
-### 📫 How to reach me
+Next.js · Supabase · Algolia · Stripe · AWS S3 · HubSpot · Base44 · n8n / Make / Zapier · Python automation
 
-- [LinkedIn](https://www.linkedin.com/in/baylorshannon)
-- Email: [hello@shannonbaylor.com](mailto:hello@shannonbaylor.com)
-- Website: [shannonbaylor.com](https://shannonbaylor.com)
+I'm the technical person on non-technical teams and the product person in technical rooms. The job is translation, in both directions.
 
-### ⚡ Fun fact
+🤍 Why sports
 
-When I'm not behind a computer, you can find me flying across a volleyball court!
+I've spent my career inside youth sports because I believe every kid deserves the whole journey, not just the door: finding a sport, growing in it, being coached well, belonging to a team. Not every kid gets that chance. I'm building until that changes.
 
----
+🤝 Working with me
 
-### 🎯 Mission
+If you've got a sports, health, or wellness tech build (or a two-sided marketplace, or a client portal, or a systems problem wearing a product costume) that needs someone to make it real, that's the work I take on.
 
-My mission is to democratize AI for smaller sports businesses, empowering them to compete more effectively by leveraging cutting-edge technology.
+📍 Houston · 🌐 shannonbaylor.com · 💼 LinkedIn · ✉️ hello@shannonbaylor.com · ⬆️ Upwork
+
+⚡ When I'm not behind a computer, you can find me flying across a volleyball court.
