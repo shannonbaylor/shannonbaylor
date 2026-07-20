@@ -16,13 +16,13 @@ I run AI-native: strategy and specs in chat, implementation by a coding agent, e
 
 Full write-ups of real builds: the problem, the architecture, and the decisions, reversals included.
 
-🟠 **[From Cold Start to Checkout](../klubbi-cs)** · Klubbi, a two-sided youth sports marketplace I'm opening solo in Houston, native registration and Stripe Connect payments live at launch. Supply bought before demand asked: ~4,300 org records sourced, cleaned, and entity-resolved before a single parent shows up. Public launch July 2026 → [joinklubbi.com](https://joinklubbi.com)
+🟠 **[From Cold Start to Checkout](https://github.com/shannonbaylor/klubbi-cs)** · Klubbi, a two-sided youth sports marketplace I'm opening solo in Houston, native registration and Stripe Connect payments live at launch. Supply bought before demand asked: ~4,300 org records sourced, cleaned, and entity-resolved before a single parent shows up. Public launch July 2026 → [joinklubbi.com](https://joinklubbi.com)
 
-📅 **[From Tracker to Forecaster](../sideline-assist-cs)** · Sideline Assist started as a budget tracker that worked and looked like every other budget app. I rebuilt it once I saw parents weren't asking what they'd spent, they were asking whether they could afford the season. Public waitlist → [sidelineassist.com](https://sidelineassist.com)
+📅 **[From Tracker to Forecaster](https://github.com/shannonbaylor/sideline-assist-cs)** · Sideline Assist started as a budget tracker that worked and looked like every other budget app. I rebuilt it once I saw parents weren't asking what they'd spent, they were asking whether they could afford the season.
 
-🔧 **[From Mid-Build to Launch-Ready](../sip-dev-cs)** · Client engagement, joined mid-stream: a partly built injury-reporting app, an existing technical lead, a deadline that couldn't move. I audited the inherited state (finding a "done" notification system that had never delivered an email), rebuilt the backlog as twenty launch gates, and managed the build to QA-passed through someone else's hands.
+🔧 **[From Mid-Build to Launch-Ready](https://github.com/shannonbaylor/sip-dev-cs)** · Client engagement, joined mid-stream: a partly built injury-reporting app, an existing technical lead, a deadline that couldn't move. I audited the inherited state (finding a "done" notification system that had never delivered an email), rebuilt the backlog as twenty launch gates, and managed the build to QA-passed through someone else's hands.
 
-🩺 **[From Prototype to Pilot](../sip-cs)** · The same engagement's second act: turning the finished build into a running business. Pilot strategy across three tracks, a measurement layer fixed before the pilot ran, and the whole thing templated so the next club is a fill-in deployment.
+🩺 **[From Prototype to Pilot](https://github.com/shannonbaylor/sip-cs)** · The same engagement's second act: turning the finished build into a running business. Pilot strategy across three tracks, a measurement layer fixed before the pilot ran, and the whole thing templated so the next club is a fill-in deployment.
 
 ## 🧰 Stack I work in
 
@@ -38,9 +38,8 @@ I've spent my career inside youth sports because I believe every kid deserves th
 
 If you've got a sports, health, or wellness tech build that needs someone to make it real (or a half-finished one that needs someone to make it done), that's the work I take on.
 
-📍 Houston · 🌐 [shannonbaylor.com](https://shannonbaylor.com) · 💼 [LinkedIn](https://www.linkedin.com/in/baylorshannon) · ✉️ [hello@shannonbaylor.com](mailto:hello@shannonbaylor.com) · ⬆️ [Upwork](#)
+📍 Houston · 🌐 [shannonbaylor.com](https://shannonbaylor.com) · 💼 [LinkedIn](https://www.linkedin.com/in/baylorshannon) · ✉️ [hello@shannonbaylor.com](mailto:hello@shannonbaylor.com) 
 
 ⚡ When I'm not behind a computer, you can find me flying across a volleyball court.
 
-<!-- Replace the Upwork "#" with your actual Upwork profile URL -->
-<!-- The ../klubbi-cs style links point to your GitHub repos (klubbi-cs, sideline-assist-cs, sip-dev-cs, sip-cs) and work once those repos exist under the same account. Since the write-ups also live on your site, you can swap any link for the shannonbaylor.com version if you'd rather send GitHub visitors there. -->
+
